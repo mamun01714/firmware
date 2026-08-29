@@ -1,6 +1,6 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "url": "https://mamun01714.github.io/firmware/firmware.bin",
   "signature_url": "https://mamun01714.github.io/firmware/firmware.bin.signed",
-  "sha256": "51aab9eae38a9028b28458e1372da056305ac91265bd343dfbe2452f2bee0291"
+  "sha256": "872f65d6bd79347fe01ae95b9b59a6322393439e967b03390b8e0dd5403b5c48"
 }
