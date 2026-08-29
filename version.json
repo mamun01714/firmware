@@ -1,1 +1,1 @@
-{"version":"1.0.11","url":"http://192.168.0.103/firmware.bin","signature_url":"http://192.168.0.103/firmware.bin.signed","sha256":"3db65821bb0d4f5fae878452af0681a4f1f7f917cc4e467affb9e4cf64994e43"}
+{"version":"1.0.11","url":"http://192.168.0.103:8080/firmware.bin","signature_url":"http://192.168.0.103:8080/firmware.bin.signed","sha256":"3db65821bb0d4f5fae878452af0681a4f1f7f917cc4e467affb9e4cf64994e43"}
