@@ -1,6 +1,1 @@
-{
-  "version": "1.0.11",
-  "url": "https://raw.githubusercontent.com/mamun01714/firmware/main/firmware.bin",
-  "signature_url": "https://raw.githubusercontent.com/mamun01714/firmware/main/firmware.bin.signed",
-  "sha256": "069c5ea235e02dd0b5463f02512e5edafb6698ffdd0340307dc251e9d0356833"
-}
+{"version":"1.0.11","url":"http://192.168.0.103/firmware.bin","signature_url":"http://192.168.0.103/firmware.bin.signed","sha256":"3db65821bb0d4f5fae878452af0681a4f1f7f917cc4e467affb9e4cf64994e43"}
